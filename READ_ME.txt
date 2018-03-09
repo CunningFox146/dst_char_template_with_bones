@@ -1,0 +1,2 @@
+After compiling the animation, go to "anim" folder, open the *.zip file and delete "build.bin" and "atlas-0.tex" files.
+Your animation would work with these files, but it's 1mb less for people to download.
